@@ -1,5 +1,5 @@
 # E-Commerce-Sales-Report
-Analyzed an e-commerce store's sales dataset using Power BI, uncovering key insights on revenue, seasonal trends, and product performance. Optimized data visualization with a modern, seamless design.
+Conducted a comprehensive analysis of an e-commerce store’s sales dataset using Power BI, leveraging advanced data visualization techniques to uncover key business insights. Examined revenue patterns, seasonal trends, and product performance to identify high-performing items, sales fluctuations, and customer purchasing behaviors. Designed and optimized interactive dashboards with a modern, intuitive interface, ensuring seamless navigation and data-driven decision-making. The insights derived from this analysis provided valuable recommendations for revenue optimization, inventory management, and strategic sales planning.
 # 🔍 Key Insights & Strategic Recommendations
 1️⃣ Canada generated the highest revenue
 📌 Recommendation: Strengthen marketing efforts in Canada by implementing targeted campaigns, localized promotions, and customer loyalty programs to drive retention and increase market share.
